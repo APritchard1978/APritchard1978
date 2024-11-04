@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @APritchard1978
+- 👋 Hi, I’m Anita Pritchard
 - 👀 I’m interested in everything around testing and quality assurance
 - 🌱 I’m currently learning more about Test Automation 
 - 💞️ I’m looking to collaborate on something, not sure what yet
